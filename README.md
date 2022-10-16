@@ -19,7 +19,7 @@ This is a directory of material data based on publications from the National Ins
 #### kVp_shift_library.py and kVp_shift_example.ipynb ####
 This library has the tools to import a DICOM as a 3D numpy array, and then models what the same scan taken at a different tube voltage would look like. It requires the material_info directory to work. It can account for a polychromatic x-ray beam if you have the anode material and aluminium filter thickness.kVp_shift_example.ipynb is a Notebook with this code compiling. The example Notebook provided demonstrates how this looks. 
 
-### density_map_libray.py and density_map.ipynb ####
+#### density_map_libray.py and density_map.ipynb ####
 This set of tools is for importing a DICOM and creating a probable map of the mass densities. The purpose of this is to create a reasonable proxy of electron density. It requires material_info to work.
 
 #### scattering_library.py and scattering_example.ipynb ####
