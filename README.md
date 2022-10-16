@@ -1,8 +1,8 @@
 # Reconstructed_Radiograph_Tools
  
-Hello and welcome to my honours project for Curtin University Bachelor of Radiation Science (Medical Imaging).
+Hello and welcome to my Honours project for Curtin University Bachelor of Radiation Science (Medical Imaging).
 
-This repository contains a set of tools for manipulating CT data with Python. It was written in Jupyter Notebook using Anaconda Navigator to manage dependencies.
+This repository contains a set of tools for manipulating CT data to create digitally reconstructed radiographs (DRR) with Python. It was written in Jupyter Notebook using Anaconda Navigator to manage dependencies.
 
 
 #### perspectiveless_DRR.ipynb ####
