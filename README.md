@@ -1,6 +1,6 @@
 # Reconstructed_Radiograph_Tools
  
-Hello and welcome to my Honours project for Curtin University Bachelor of Radiation Science (Medical Imaging).
+Hello and welcome to my Honours project for Curtin University Bachelor of Radiation Science (Medical Imaging). My name is Katie Harris.
 
 This repository contains a set of tools for manipulating CT data to create digitally reconstructed radiographs (DRR) with Python. It was written in Jupyter Notebook using Anaconda Navigator to manage dependencies.
 
